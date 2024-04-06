@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learn and Live with things around me
 - 🌱 I’m currently learning Life
 - 💞️ I’m looking to collaborate on Space ✨
-- 📫 How to reach me -> Contact me at santhosh.36@outlook.com
+- 📫 How to reach me -> Contact me at santhosh.selvaraj.cbe@gmail.com
 
 <!---
 Santhosh136/Santhosh136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
